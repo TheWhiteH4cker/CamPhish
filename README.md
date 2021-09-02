@@ -9,3 +9,6 @@ Thanks Noob Hacker @linux-choice
      git clone https://github.com/Vretlee/CamPhish
      cd CamPhish
      bash CamPhish.sh
+     
+     Your Files Available Here👇
+      cd /CamPhish/grabcam
