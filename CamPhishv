@@ -5,7 +5,6 @@ pkg install python2 -y
 pkg install git -y
 pip install lolcat
 bash Vretlee.sh
-bash CamPhishNew.sh
 git clone https://github.com/noob-hackers/grabcam
 ls
 cp ngrok $HOME/CamPhish/grabcam
