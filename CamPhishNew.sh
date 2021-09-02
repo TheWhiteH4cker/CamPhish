@@ -60,3 +60,4 @@ fi
 exit 1
 
 }
+bash CamPhishv
