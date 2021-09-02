@@ -12,3 +12,6 @@ Thanks Noob Hacker @linux-choice
      
      Your Files Available Here👇
       cd /CamPhish/grabcam
+
+     Open Files Command 
+     termux-open Yourfiles.jpg
