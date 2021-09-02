@@ -18,7 +18,7 @@ Thanks Noob Hacker & @linux-choice
      Open Files Command 
      termux-open Yourfiles.jpg
 
-Follow Me <a href="https://www.instagram.com/krish_na_2568">@krish_na_2568</a>
+Follow Me <a href="https://www.instagram.com/krish_na_2568">@InstaGram</a>
 
 <a href="https://github.com/Vretlee/sneakphish"><img title="" src="https://github.com/Vretlee/CamPhish/blob/main/1StepSelectAllLinkByBaapG.jpg" data-canonical-src="https://github-readme-stats.vercel.app/api/pin/?username=noob-hackers&amp;repo=ipdrone&amp;theme=highcontrast" style="max-width:100%;"></a>
 </p>
