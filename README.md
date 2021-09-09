@@ -13,7 +13,7 @@ Thanks Noob Hacker & @linux-choice
      bash CamPhish.sh
      
     > Your Files Available Here👇
-    >  cd /CamPhish/grabcam
+      cd /CamPhish/grabcam
 
      Open Files Command 
      termux-open Yourfiles.jpg
